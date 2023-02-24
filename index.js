@@ -20,6 +20,7 @@ const DBCmodel = mongoose.model(nameofcollection,mongoose.Schema({
     email:String
 }))
 
+
 Dbmodel=DBCmodel 
 }
 // Creating new user collection step 2
